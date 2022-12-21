@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @shrinidhits
-- 👀 I’m interested in programming
-- 🌱 I’m an undergraduate student in computer science
 
 
 <!---
